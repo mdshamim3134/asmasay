@@ -18,7 +18,8 @@ public class Base {
 	}
 	@Test
 	void dd() {
-		System.out.println("i am exclude"); 
+		System.out.println("i am exclude");
+		System.out.println(300);
 		
 	}
 
