@@ -20,7 +20,7 @@ public class Base {
 	void dd() {
 		System.out.println("i am exclude");
 		System.out.println(300);
-		
+		System.out.println(2);
 	}
 
 }
